@@ -21,7 +21,9 @@
     
 </div>
 
-In November 2022, all coding bootcamp projects hosted on Heroku will become ___. This tutorial describes how to migrate an existing Heroku app to a new **free** service. 
+In November 2022, all coding bootcamp projects hosted on Heroku will become ___. 
+
+This tutorial describes how to migrate an existing Heroku app to a new **free** service. 
 
 ## Before You Begin
 
