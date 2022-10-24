@@ -189,7 +189,7 @@ You may wish to consult the following resources for additional information on th
 
 ## :satellite: Upcoming Features
 
-- [:x:] 
+- [:x:] Search Hashnode for similar doc
 
 - [:x:] 
 
