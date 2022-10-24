@@ -25,17 +25,17 @@ In November 2022, all coding bootcamp projects hosted on Heroku will become ___.
 
 ## Before You Begin
 
-Complete the following steps prior to getting started:
+<!-- Complete the following steps prior to getting started:
 
 1. Install [Git](https://git-scm.com/):
 
 ```
 sudo apt install curl wget git
-```
+``` -->
 
 ## Installation
 
-1. Install [Zsh](https://zsh.sourceforge.io/):
+<!-- 1. Install [Zsh](https://zsh.sourceforge.io/):
 ```
 sudo apt install zsh
 ```
@@ -61,12 +61,12 @@ chsh -s $(which bash)
 ```
 Proceed to log out and back into your session for the change to take effect.
 
-Run `echo $SHELL` to confirm the output is `/bin/bash`
+Run `echo $SHELL` to confirm the output is `/bin/bash` -->
 
 
 
 ## Change Zsh Theme
-By default, the zsh theme is set to `robbyrussell`, the name of the founder of Oh My Zsh. However, this is rather plain and there are over 100+ included themes with a wider assortment of colors and styles to choose from. 
+<!-- By default, the zsh theme is set to `robbyrussell`, the name of the founder of Oh My Zsh. However, this is rather plain and there are over 100+ included themes with a wider assortment of colors and styles to choose from. 
 
 For example, here are 3 uniquely different themes to choose from:
 
@@ -125,10 +125,10 @@ source ~/.zshrc
     b. List the names of all the available themes:
     ```
     ls
-    ```
+    ``` -->
 
 ## Enable Autosuggestions
-The autosuggestions plug-in is quite possibly the single most time-saving tool when coding. Instead of having to type the same command over and over again in full, this plug-in automatically suggests the rest of your command as you are typing, without even having to press `TAB`. 
+<!-- The autosuggestions plug-in is quite possibly the single most time-saving tool when coding. Instead of having to type the same command over and over again in full, this plug-in automatically suggests the rest of your command as you are typing, without even having to press `TAB`. 
 
 For example, instead of having to type `git push origin main` every single time you wish to push a new commit, you can instead type `git push` and the command line will automatically show a preview of the rest of the suggested command based on your shell's history.
 
@@ -163,22 +163,22 @@ git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugi
 source ~/.zshrc
 ```
 
-5. Try it out! Start typing a command you know to be in your shell's history and watch as zsh offers autosuggestions. After seeing a suggestion that you'd like to approve, press the `Right Arrow` key to accept it.
+5. Try it out! Start typing a command you know to be in your shell's history and watch as zsh offers autosuggestions. After seeing a suggestion that you'd like to approve, press the `Right Arrow` key to accept it. -->
 
 ## More Information
 
 You may wish to consult the following resources for additional information on this topic. While these are provided in the hope that they will be useful, please note that we cannot vouch for the accuracy or timeliness of externally hosted materials.
 
-- [Official Zsh Documentation](https://zsh.sourceforge.io/Doc/)
+<!-- - [Official Zsh Documentation](https://zsh.sourceforge.io/Doc/)
 - [Oh My Zsh Framework Documentation](https://github.com/ohmyzsh/ohmyzsh/wiki)
-- [List of Zsh Themes](https://github.com/ohmyzsh/ohmyzsh/wiki/themes)
+- [List of Zsh Themes](https://github.com/ohmyzsh/ohmyzsh/wiki/themes) -->
 
 <div align="center">
    <h3>***If you found this tutorial helpful, please consider giving it a :star:</h3>
    
    Copyright :copyright: 2021-2022 Pan You Can
 
-## More Tutorials from Professor Pan
+## More Tutorials from Amar Pan
 
  [How to Create a GitHub Profile](https://github.com/profpan396/how-to-create-a-github-profile)
 
