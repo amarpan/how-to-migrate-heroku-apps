@@ -197,6 +197,7 @@ You may wish to consult the following resources for additional information on th
     2. Marcy Lab (Andrew and ___ )
     3. Coding Dojo (Ronald)
     4. P___ (cowboy)
+    5. Manchester United (full snack dev)
 
 - [:x:] 
 
