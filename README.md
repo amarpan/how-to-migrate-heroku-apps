@@ -189,7 +189,8 @@ You may wish to consult the following resources for additional information on th
 
 ## :satellite: Upcoming Features
 
-- [:star:] Search Hashnode for similar doc => https://blog.yusadolat.me/alternatives-to-heroku-migrate-your-heroku-apps-to-koyeb#comments-list
+- [:star:] Search Hashnode for similar doc:
+    - https://blog.yusadolat.me/alternatives-to-heroku-migrate-your-heroku-apps-to-koyeb#comments-list
 
 - [:x:] Make list of all bootcamps you currently have network connections with 
 
