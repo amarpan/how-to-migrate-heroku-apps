@@ -196,6 +196,7 @@ You may wish to consult the following resources for additional information on th
     1. General Assembly
     2. Marcy Lab (Andrew and ___ )
     3. Coding Dojo (Ronald)
+    4. P___ (cowboy)
 
 - [:x:] 
 
