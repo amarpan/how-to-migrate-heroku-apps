@@ -21,6 +21,8 @@
     
 </div>
 
+In November 2022, all coding bootcamp projects hosted on Heroku will become ___. This tutorial describes how to migrate an existing Heroku app to a new free service. 
+
 Z Shell (zsh) is a popular alternative to the default command line bash shell with improved features like recursive path expansion, automatic spelling correction, and plug-in and theme support. 
 
 This guide will walk you through the process of installing and configuring zsh, including how to change themes and enable the time-saving autosuggestions plug-in. 
