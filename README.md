@@ -199,7 +199,9 @@ You may wish to consult the following resources for additional information on th
     4. P___ (cowboy)
     5. Manchester United (full snack dev)
     6. MIT ProX (SPED Teacher who reshared bush meme)
-    8. U of Utah (Devin)
+    7. U of Utah (Devin)
+    8. FreeCodeCamp (Ronald)
+    9. devCodeCamp (Theo)
 
 - [:x:] 
 
