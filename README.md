@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="502" alt="banner simon" src="https://user-images.githubusercontent.com/101842750/162448581-4f688418-9c51-43e6-b607-9745eb86cb53.png">
+<img src="https://media-exp1.licdn.com/dms/image/D5622AQE1gzxXCEnznA/feedshare-shrink_800/0/1666520871832?e=1669248000&v=beta&t=ArAJlRSGSKKTOpODEWl7N_eRqbpX3pph9es5PIXKlAg" width="300" height="300" alt="banner" >
 
 # How to Migrate A Heroku App
 **Written by [Amar Pan, M.Ed.](https://www.linkedin.com/in/profpan396/)** <br> Sr. Instructional Associate
