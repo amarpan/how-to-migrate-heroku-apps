@@ -21,9 +21,13 @@
     
 </div>
 
+<div align="center">
+
 In November 2022, all coding bootcamp projects hosted on Heroku will become ___. 
 
 This tutorial describes how to migrate an existing Heroku app to a new **free** service. 
+
+</div>
 
 ## Before You Begin
 
