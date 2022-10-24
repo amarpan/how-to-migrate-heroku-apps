@@ -189,7 +189,7 @@ You may wish to consult the following resources for additional information on th
 
 ## :satellite: Upcoming Features
 
-- [:x:] Search Hashnode for similar doc
+- [:star:] Search Hashnode for similar doc => https://blog.yusadolat.me/alternatives-to-heroku-migrate-your-heroku-apps-to-koyeb#comments-list
 
 - [:x:] 
 
