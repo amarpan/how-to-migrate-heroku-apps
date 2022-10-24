@@ -19,7 +19,7 @@
 
 </div>
     
- </div>
+</div>
 
 Z Shell (zsh) is a popular alternative to the default command line bash shell with improved features like recursive path expansion, automatic spelling correction, and plug-in and theme support. 
 
