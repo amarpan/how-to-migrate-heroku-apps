@@ -197,7 +197,7 @@ You may wish to consult the following resources for additional information on th
 
 ## More Tutorials from Amar Pan
 
- [How to Write a Coding Bootcamp README](https://github.com/profpan396/how-to-write-a-README)
+ [How to Write the Ultimate Coding Bootcamp README](https://github.com/profpan396/how-to-write-a-README)
 
  [How to Change Z Shell Themes](https://github.com/profpan396/how-to-install-and-configure-zshell)
 
