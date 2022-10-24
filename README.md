@@ -192,6 +192,7 @@ You may wish to consult the following resources for additional information on th
   | <a href="https://www.linkedin.com/in/eric-fithian/"> Eric Fithian <br> :apple: </a> | Lead Instructor and Products Advisory Board Member @ General Assembly | Teaching <br> :man_teacher:
   | <a href="https://www.linkedin.com/in/profpan396"> Amar Pan, M.Ed. <br> :india: </a> | Sr. Instructional Associate @ General Assembly <br><br> Technical Writer @ <a href="https://www.linode.com/docs/guides/"> Linode </a>  <br><br> House Pan Founder | Writing <br> :pencil:
   | <a href="https://www.linkedin.com/in/mariorrecinos/"> Mario Recinos <br> :guatemala: </a> | Sr. Instructional Associate @ General Assembly <br><br> Coach @ <a href="https://www.careerkarma.com"> Career Karma </a> <br><br> House Rec Founder | Outreach <br> :teacher:
+  | <a href="https://www.linkedin.com/in/mariorrecinos/"> Mario Recinos <br> :guatemala: </a> | Sr. Instructional Associate @ General Assembly <br><br> Coach @ <a href="https://www.careerkarma.com"> Career Karma </a> <br><br> House Rec Founder | Outreach <br> :teacher:
    
    Copyright :copyright: 2021-2022 <br> Pan You Can
 
