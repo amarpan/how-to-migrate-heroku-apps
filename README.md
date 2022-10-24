@@ -1,6 +1,6 @@
 <div align="center">
 
-# How to Migrate A Heroku App to Another Free Service
+# How to Migrate A Heroku App
 **Written by [Amar Pan, M.Ed.](https://www.linkedin.com/in/profpan396/)** <br> Sr. Instructional Associate
 
 <div align="center" id="socialbuttons">
