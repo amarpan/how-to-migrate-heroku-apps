@@ -189,7 +189,7 @@ You may wish to consult the following resources for additional information on th
 
 ## :satellite: Upcoming Features
 
-- [:star:] Animations on sliding buttons
+- [:x:] Animations on sliding buttons
 
 - [:x:] Comment functionality on posts to encourage discussion
 
