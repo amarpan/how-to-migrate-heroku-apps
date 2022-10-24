@@ -185,6 +185,18 @@ You may wish to consult the following resources for additional information on th
 
 ### ***If you found this tutorial helpful, please consider giving it a :star:
 
+</div>
+
+## :satellite: Upcoming Features
+
+- [:star:] Animations on sliding buttons
+
+- [:x:] Comment functionality on posts to encourage discussion
+
+- [:x:] ~~Tinder API Integration~~
+
+<div align="center">
+
 ## Contributions
  
   |  Name | Title | Contribution |
@@ -205,5 +217,6 @@ You may wish to consult the following resources for additional information on th
 
  [How to Create a GitHub Profile](https://github.com/profpan396/how-to-create-a-github-profile)
 
+</div>
 </div>
 
