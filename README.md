@@ -2,7 +2,7 @@
 
 <img src="https://media-exp1.licdn.com/dms/image/D5622AQE1gzxXCEnznA/feedshare-shrink_800/0/1666520871832?e=1669248000&v=beta&t=ArAJlRSGSKKTOpODEWl7N_eRqbpX3pph9es5PIXKlAg" width="300" height="300" alt="banner" >
 
-# How to Migrate A Heroku App
+# How to Migrate A Heroku App <br> :star: 0 :star:
 **Written by [Amar Pan, M.Ed.](https://www.linkedin.com/in/profpan396/)** <br> Sr. Instructional Associate
 
 <div align="center" id="socialbuttons">
