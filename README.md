@@ -192,7 +192,10 @@ You may wish to consult the following resources for additional information on th
 - [:star:] Search Hashnode for similar doc:
     - https://blog.yusadolat.me/alternatives-to-heroku-migrate-your-heroku-apps-to-koyeb#comments-list
 
-- [:x:] Make list of all bootcamps you currently have network connections with 
+- [:x:] Make list of all bootcamps you currently have network connections with:
+    1. General Assembly
+    2. Marcy Lab (Andrew and ___ )
+    3. Coding Dojo (Ronald)
 
 - [:x:] 
 
