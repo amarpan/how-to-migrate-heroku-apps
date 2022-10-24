@@ -188,7 +188,7 @@ You may wish to consult the following resources for additional information on th
 
  [How to Write a Coding Bootcamp README](https://github.com/profpan396/how-to-write-a-README)
 
- [How to Create a GitHub Profile](https://github.com/profpan396/how-to-create-a-github-profile)
+ [How to Change Z Shell Themes](https://github.com/profpan396/how-to-install-and-configure-zshell)
 
  [How to Use the Vim Text Editor in the Terminal](https://github.com/profpan396/how-to-use-the-vim-text-editor)
 
