@@ -1,7 +1,7 @@
 <div align="center">
 
 # How to Migrate Heroku Apps to Another Service
-**Written by [Amar Pan, M.Ed.](https://www.linkedin.com/in/profpan396/)** <br> Technical Writer
+**Written by [Amar Pan, M.Ed.](https://www.linkedin.com/in/profpan396/)** <br> Sr. Instructional Associate
 
 <div align="center" id="socialbuttons">
 
