@@ -189,11 +189,11 @@ You may wish to consult the following resources for additional information on th
 
 ## :satellite: Upcoming Features
 
-- [:x:] Animations on sliding buttons
+- [:x:] 
 
-- [:x:] Comment functionality on posts to encourage discussion
+- [:x:] 
 
-- [:x:] ~~Tinder API Integration~~
+- [:x:] 
 
 <div align="center">
 
