@@ -13,7 +13,7 @@
   ![](https://visitor-badge.laobi.icu/badge?page_id=profpan396.how-to-migrate-heroku-apps)
   ![Forks](https://img.shields.io/github/forks/profpan396/how-to-migrate-heroku-apps?style=social)
   <br>
-  ![Version](https://img.shields.io/badge/version-1.0-gold)
+  ![Version](https://img.shields.io/badge/version-1.0-black)
 
   ### If you find this tutorial helpful, please consider giving it a :star:
 
