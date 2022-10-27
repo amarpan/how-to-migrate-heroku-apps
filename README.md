@@ -189,22 +189,6 @@ You may wish to consult the following resources for additional information on th
 
 ## :satellite: Upcoming Features
 
-- [:star:] Search Hashnode for similar doc:
-    - https://blog.yusadolat.me/alternatives-to-heroku-migrate-your-heroku-apps-to-koyeb#comments-list
-
-- [:star:] Make list of all bootcamps you currently have network connections with:
-    1. General Assembly
-    2. Marcy Lab (Andrew and ___ )
-    3. Coding Dojo (Ronald)
-    4. P___ (cowboy)
-    5. Manchester United (full snack dev)
-    6. MIT ProX (SPED Teacher who reshared bush meme)
-    7. U of Utah (Devin)
-    8. FreeCodeCamp (Ronald)
-    9. devCodeCamp (Theo)
-
-- [:x:] 
-
 <div align="center">
 
 ## Contributions
