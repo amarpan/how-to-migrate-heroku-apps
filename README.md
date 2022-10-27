@@ -73,7 +73,7 @@ Run `echo $SHELL` to confirm the output is `/bin/bash` -->
 
 
 
-## Change Zsh Theme
+## Step 1
 <!-- By default, the zsh theme is set to `robbyrussell`, the name of the founder of Oh My Zsh. However, this is rather plain and there are over 100+ included themes with a wider assortment of colors and styles to choose from. 
 
 For example, here are 3 uniquely different themes to choose from:
